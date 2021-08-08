@@ -4,11 +4,11 @@
 <!DOCTYPE HTML>
 <html>
 <center>
-<head ><big ><b><font color="purple"  >Moolya Registration Portal </font></b></big>
+<head ><big ><b><font color="purple"  >Moolya Registration Portal </font></b></big></head>
  
   <title>Moolya User Registration Portal</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-</head>
+
 <body style=style="background-color:grey;" >
 
  <form action="insert.php" method="POST">
