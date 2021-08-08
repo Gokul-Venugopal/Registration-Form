@@ -1,0 +1,39 @@
+body{
+    color:black;
+    align-content: center;
+    background-color:silver;
+    border-color: rgb(212, 107, 107);
+    border-radius:100px;
+    padding:13px;
+    margin:auto;
+    position:  center;
+    
+    
+  }
+  table{
+      border-color: black;
+      word-spacing: 10;
+      width: fit-content;
+      table-layout: auto;
+
+  }
+
+  p{
+      border-color: black;
+      border-width: 10px;
+      word-spacing: 100;
+      
+  }
+
+  head{
+      font-size: large;
+      font-style: italic;
+  }
+ 
+  tr{
+      word-spacing: 100;
+  }
+  div{
+      background-image: url("C:\Users\user\Downloads\1bnw");
+  }
+  
